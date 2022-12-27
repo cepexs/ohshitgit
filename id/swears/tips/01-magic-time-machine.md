@@ -1,6 +1,6 @@
 ---
 tags: tip
-title: Tai, gue udah ngelakuin sesuatu yang salah, plis kasih tau gue kalo git punya mesin waktu ajaib!?!
+title: Oke, gue udah ngelakuin sesuatu yang salah, plis kasih tau gue kalo git punya mesin waktu ajaib!?!
 id: mesin-waktu-ajaib
 order: 1
 ---
