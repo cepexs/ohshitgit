@@ -1,7 +1,7 @@
 ---
 tags: tip
-title: Tai lah semua, nyerah aja deh gue.
-id: tai-lah-semua
+title: Oke lah semua, nyerah aja deh gue.
+id: oke-lah-semua
 note: cara ini harus selalu terakhir di daftar, jadi gue set order ke 20 biar gue gak perlu ngelakuin re-name/re-order
 order: 20
 ---
