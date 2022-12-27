@@ -1,6 +1,6 @@
 ---
 tags: tip
-title: Tai, gue perlu undo changes gue di file!
+title: Oke, gue perlu undo changes gue di file!
 id: undo-sebuah-file
 order: 8
 ---
