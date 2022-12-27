@@ -1,6 +1,6 @@
 ---
 tags: tip
-title: Tai, gw gak sengaja commit sesuatu di master yang harusnya di branch baru!
+title: Oke, gw gak sengaja commit sesuatu di master yang harusnya di branch baru!
 id: tidaksengaja-commit-master
 order: 4
 ---
